@@ -6,4 +6,5 @@ GitHub Search Web Extension
 ## Links
 [Chrome Web Store](https://chrome.google.com/webstore/detail/github-search/aioobbhmdecmpggcbcnkkkfbfdfhdiki)
 
+[Firefox Browser ADD-ONS](https://addons.mozilla.org/pt-BR/firefox/addon/github-search-we/)
 
